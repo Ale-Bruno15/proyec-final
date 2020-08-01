@@ -1,0 +1,13 @@
+C:\Users\home\Desktop\primer paso\otra vez progect final\otra vez progect final\bin\Debug\netcoreapp3.1\otra vez progect final.exe
+C:\Users\home\Desktop\primer paso\otra vez progect final\otra vez progect final\bin\Debug\netcoreapp3.1\otra vez progect final.deps.json
+C:\Users\home\Desktop\primer paso\otra vez progect final\otra vez progect final\bin\Debug\netcoreapp3.1\otra vez progect final.runtimeconfig.json
+C:\Users\home\Desktop\primer paso\otra vez progect final\otra vez progect final\bin\Debug\netcoreapp3.1\otra vez progect final.runtimeconfig.dev.json
+C:\Users\home\Desktop\primer paso\otra vez progect final\otra vez progect final\bin\Debug\netcoreapp3.1\otra vez progect final.dll
+C:\Users\home\Desktop\primer paso\otra vez progect final\otra vez progect final\bin\Debug\netcoreapp3.1\otra vez progect final.pdb
+C:\Users\home\Desktop\primer paso\otra vez progect final\otra vez progect final\obj\Debug\netcoreapp3.1\otra vez progect final.csprojAssemblyReference.cache
+C:\Users\home\Desktop\primer paso\otra vez progect final\otra vez progect final\obj\Debug\netcoreapp3.1\otra vez progect final.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\primer paso\otra vez progect final\otra vez progect final\obj\Debug\netcoreapp3.1\otra vez progect final.AssemblyInfo.cs
+C:\Users\home\Desktop\primer paso\otra vez progect final\otra vez progect final\obj\Debug\netcoreapp3.1\otra vez progect final.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\primer paso\otra vez progect final\otra vez progect final\obj\Debug\netcoreapp3.1\otra vez progect final.dll
+C:\Users\home\Desktop\primer paso\otra vez progect final\otra vez progect final\obj\Debug\netcoreapp3.1\otra vez progect final.pdb
+C:\Users\home\Desktop\primer paso\otra vez progect final\otra vez progect final\obj\Debug\netcoreapp3.1\otra vez progect final.genruntimeconfig.cache
